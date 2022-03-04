@@ -40,6 +40,7 @@
     "@types/node": "^12.11.1",
     "@typescript-eslint/eslint-plugin": "5.3.0",
     "@typescript-eslint/parser": "5.3.0",
+    "cordova-android": "^10.1.1",
     "cordova-ios": "^6.2.0",
     "cordova-plugin-device": "2.0.2",
     "cordova-plugin-ionic": "^5.5.1",
@@ -81,7 +82,8 @@
       }
     },
     "platforms": [
-      "ios"
+      "ios",
+      "android"
     ]
   }
 }
