@@ -42,6 +42,7 @@
     "cordova-android": "^9.1.0",
     "cordova-ios": "^6.2.0",
     "cordova-plugin-device": "2.0.2",
+    "cordova-plugin-firebasex": "^14.2.1",
     "cordova-plugin-ionic": "^5.5.1",
     "cordova-plugin-ionic-keyboard": "^2.0.5",
     "cordova-plugin-ionic-webview": "^5.0.0",
@@ -78,7 +79,8 @@
         "MAX_STORE": "2",
         "MIN_BACKGROUND_DURATION": "30",
         "UPDATE_API": "https://api.ionicjs.com"
-      }
+      },
+      "cordova-plugin-firebasex": {}
     },
     "platforms": [
       "ios",
